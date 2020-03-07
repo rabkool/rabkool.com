@@ -1,7 +1,6 @@
 # rabkool
 
 
-
 ## github
 
 #### 1.本地生成密钥
@@ -31,13 +30,11 @@ ssh -T git@github.com
 ```
 
 
-
 初始化一个git 仓库
 
 ```
 git init
 ```
-
 
 
 #### 3.git clone / git remote add
