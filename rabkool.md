@@ -92,3 +92,8 @@ git push origin master
 ```shell
 git config --global color.ui true
 ```
+
+## 不用再次填 账号密码
+```
+git config --global credential.helper store
+```
