@@ -92,6 +92,3 @@ git push origin master
 ```shell
 git config --global color.ui true
 ```
-
-
-
