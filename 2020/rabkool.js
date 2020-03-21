@@ -66,7 +66,7 @@
                 {min: 1, max: 5, label: '1-5枚'},
                 {min: 6, max: 10, label: '6-10枚'},
                 {min: 11, max: 15, label: '11-15枚'},
-                {min: 16, max: 20, label: '16-20枚'}
+                {min: 16, max: 30, label: '16-30枚'}
             ],
             type: 'piecewise',
             orient: 'horizontal',
