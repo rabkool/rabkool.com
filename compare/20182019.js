@@ -8,7 +8,7 @@ option = {
     title: {
         top: 0,
         left: 'center',
-        text: '2018年と2019年チェキ数比較'
+        text: '2018年と2019年チェキ数分析'
     },
     tooltip: {
         trigger: 'none',
