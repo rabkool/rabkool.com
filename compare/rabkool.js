@@ -1,9 +1,7 @@
-
 // 基于准备好的dom，初始化echarts实例
 var myChart = echarts.init(document.getElementById('20192020'));
 
 var colors = ['#5793f3', '#d14a61', '#675bba'];
-
 
 option = {
     color: colors,
@@ -22,7 +20,7 @@ option = {
         top: 25,
         data:['2019 チェキ数', '2020 チェキ数']
     },
-    grid: {
+    grid: { 
         top: 70,
         bottom: 50
     },
@@ -91,5 +89,5 @@ option = {
         }
     ]
 };
-  // 使用刚指定的配置项和数据显示图表。
-    myChart.setOption(option);
+// 使用刚指定的配置项和数据显示图表。
+myChart.setOption(option);
