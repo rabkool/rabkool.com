@@ -120,7 +120,7 @@
         title: {
             top: 30,
             left: 'center',
-            text: '2019星乃さゆみチェキ(合計' + jisuan("全部") + ')宿題チェキ回収出来てない'
+            text: '2019年星乃さゆみチェキ(合計' + jisuan("全部") + ')宿題チェキ未回収数未知'
         },
         tooltip: {},
         visualMap: {
