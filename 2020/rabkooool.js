@@ -8,7 +8,7 @@ option = {
     title: {
         top: 0,
         left: 'center',
-        text: '2019年と2020年チェキ数分析'
+        text: '2019年と2020年チェキ数比較'
     },
     tooltip: {
         trigger: 'none',
@@ -85,7 +85,7 @@ option = {
             name: '2020 チェキ数',
             type: 'line',
             smooth: true,
-            data: [32, 26, 0]
+            data: [32, 26, 0, 0]
         }
     ]
 };
