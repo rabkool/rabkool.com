@@ -85,7 +85,7 @@ option = {
             name: '2020 チェキ数',
             type: 'line',
             smooth: true,
-            data: [32, 26, 0]
+            data: [32, 26, 0, 3, 0]
         }
     ]
 };
