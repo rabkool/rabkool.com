@@ -85,7 +85,8 @@ option = {
             name: '2020 チェキ数',
             type: 'line',
             smooth: true,
-            data: [32, 26, 0, 3, 0]
+            data: [jisuan("01"), jisuan("02"), jisuan("03"), jisuan("04"), jisuan("05"), jisuan("06"), jisuan("07"),
+            jisuan("08"), jisuan("09"), jisuan("10"), jisuan("11"), jisuan("12")]
         }
     ]
 };
